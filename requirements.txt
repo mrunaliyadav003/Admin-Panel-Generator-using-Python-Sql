@@ -1,0 +1,6 @@
+# Core (SQLite is built into Python — no install needed)
+# For MySQL support:
+mysql-connector-python>=8.0.0
+
+# Optional: for coloured terminal output
+colorama>=0.4.6
